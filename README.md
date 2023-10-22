@@ -27,7 +27,7 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
    
 2. Certaines dépendances doivent être installées pour le bon déroulement du projet:
 
-        - cd your_project
+           cd your_project
 
    * Création de l'environnement Windows :
 
@@ -49,9 +49,6 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
 
         - pip3 install -r requirements.txt --upgrade
    
-3. Fichier principal d'utilisation :
-
-   * python3 main.py
 
 # Algorithmie :
 
