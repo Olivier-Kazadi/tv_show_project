@@ -7,6 +7,7 @@ Ce projet qui est un projet de fin du module Python pour le cycle de Mastère en
 * Contributeurs
 * Prérequis
 * Installation
+* Algorithmie
 
 # Contributeurs
 
@@ -26,28 +27,30 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
    
 2. Certaines dépendances doivent être installées pour le bon déroulement du projet:
 
-   cd your_project
+   - cd your_project
 
    * Création de l'environnement Windows :
 
-      python -m venv venv
-      venv\scripts\activate
+        - python -m venv venv
+        - venv\scripts\activate
 
    * Sur Linux :
 
-      python3 -m venv venv
-      source venv/bin/activate
+        - python3 -m venv venv
+        - source venv/bin/activate
 
    * Sur MacOs :
 
-      python3 -m venv venv
-      source ven/bin/activate
+        - python3 -m venv venv
+        - source ven/bin/activate
 
    * Ne pas oublier d'installer les packages nécessaires au bon déroulement du   
      projet (voir fichier requirements.txt):
 
-      pip3 install -r requirements.txt --upgrade
+        - pip3 install -r requirements.txt --upgrade
    
 3. Fichier principal d'utilisation :
 
    * python3 main.py
+
+# Algorithmie :
