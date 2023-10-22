@@ -22,7 +22,7 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
 
 1. Pour clôner ce dépot :
 
-   git clon https://github.com/Olivier-Kazadi/tv_show_project.git
+   "git clone https://github.com/Olivier-Kazadi/tv_show_project.git"
    
 2. Certaines dépendances doivent être installées pour le bon déroulement du projet:
 
