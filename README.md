@@ -1,4 +1,4 @@
-# tv_show_project
+# TV Show Project
 
 Ce projet qui est un projet de fin du module Python pour le cycle de Mastère en Développement Web Full-Stack avec LiveCampus consiste à scraper un site web pour en extraire les données dans un format spécifique (dans notre cas le format choisit est CSV) puis les insérer dans une base de données et aussi réaliser certaines manipulations sur ces données.
 
@@ -22,32 +22,32 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
 
 1. Pour clôner ce dépot :
 
-   "git clone https://github.com/Olivier-Kazadi/tv_show_project.git"
+   * git clone https://github.com/Olivier-Kazadi/tv_show_project.git
    
 2. Certaines dépendances doivent être installées pour le bon déroulement du projet:
 
    cd your_project
 
-   Création de l'environnement Windows :
+   * Création de l'environnement Windows :
 
-   python -m venv venv
-   venv\scripts\activate
+      python -m venv venv
+      venv\scripts\activate
 
-   Sur Linux :
+   * Sur Linux :
 
-   python3 -m venv venv
-   source venv/bin/activate
+      python3 -m venv venv
+      source venv/bin/activate
 
-   Sur MacOs :
+   * Sur MacOs :
 
-   python3 -m venv venv
-   source ven/bin/activate
+      python3 -m venv venv
+      source ven/bin/activate
 
-   Ne pas oublier d'installer les packages nécessaires au bon déroulement du   
-   projet (voir fichier requirements.txt):
+   * Ne pas oublier d'installer les packages nécessaires au bon déroulement du   
+     projet (voir fichier requirements.txt):
 
-   pip3 install -r requirements.txt --upgrade
+      pip3 install -r requirements.txt --upgrade
    
 3. Fichier principal d'utilisation :
 
-   python3 main.py
+   * python3 main.py
