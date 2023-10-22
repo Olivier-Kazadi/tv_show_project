@@ -27,7 +27,7 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
    
 2. Certaines dépendances doivent être installées pour le bon déroulement du projet:
 
-   - cd your_project
+        - cd your_project
 
    * Création de l'environnement Windows :
 
@@ -54,3 +54,7 @@ Afin de pouvoir exécuter ce projet, vous devez vous assurer d'avoir la bonne ve
    * python3 main.py
 
 # Algorithmie :
+
+1. Pour trouver le nombre d'épisode de chaque chaine, on peut utiliser ce bout de code :
+2.  Pour trouver le nombre d'épisode de chaque pays :
+3.  Les mots le plus utilisées :
