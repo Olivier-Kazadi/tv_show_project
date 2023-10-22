@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pyscopg2
+collections
+csv
+sqlite3
